@@ -1,0 +1,6 @@
+#
+# Lesson 3 - SuperMux
+#
+APP_SRC +=  L3_SuperMux.c
+
+C_FLAGS += -DWICED_BT_TRACE_ENABLE
